@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Kavindu Anjana</h2>
-<h3 align="center">A passionate web developer from Sri Lanka</h3>
+<h3 align="center">Undergraduate at FOC<br> Sabaragamuwa University of Sri Lanka </h3>
 
 - 🌱 I’m currently learning **React, Java, MySql**
 
