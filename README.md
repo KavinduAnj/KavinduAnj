@@ -2,6 +2,7 @@
 <h3 align="center">Undergraduate at FOC<br> Sabaragamuwa University of Sri Lanka </h3>
 
 - 🌱 I’m currently learning **React, Java, MySql**
+- 👨‍💻 All of my projects are available at [https://kavinduanj.github.io/Portfolio/](https://kavinduanj.github.io/Portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
